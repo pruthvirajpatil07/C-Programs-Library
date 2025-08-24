@@ -17,11 +17,3 @@ gcc linear_search.c -o bin/linear_search
 gcc factorial_recursion.c -o bin/factorial_recursion
 gcc file_io_example.c -o bin/file_io_example
 gcc matrix_multiplication.c -o bin/matrix_multiplication
-
-./bin/bubble_sort
-./bin/linear_search
-./bin/factorial_recursion
-./bin/file_io_example
-./bin/matrix_multiplication
-
-clr
