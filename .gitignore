@@ -1,0 +1,8 @@
+# Compiled files
+*.exe
+*.o
+*.obj
+*.out
+# Misc
+.DS_Store
+bin/
